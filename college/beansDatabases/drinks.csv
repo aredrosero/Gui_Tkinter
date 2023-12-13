@@ -1,0 +1,23 @@
+Drink Name,Category,Price
+Espresso,Coffee,2.50
+Cappuccino,Coffee,3.50
+Latte,Coffee,4.00
+Iced Coffee,Coffee,3.75
+Mocha,Coffee,4.25
+Chai Latte,Tea,4.50
+Green Tea,Tea,3.00
+Black Tea,Tea,2.75
+Rooibos,Herbal Infusions,3.25
+Chamomile,Herbal Infusions,3.25
+Ginger Tea,Herbal Infusions,3.50
+Hot Chocolate,Chocolate,4.00
+Smoothie,Other,4.50
+Soda,Soft Drink,2.00
+Iced Tea,Soft Drink,2.25
+Lemonade,Soft Drink,2.50
+Sparkling Water,Soft Drink,3.00
+Cafe au Lait,Coffee,4.50
+Affogato,Coffee,5.00
+Macchiato,Coffee,4.25
+Turmeric Latte,Herbal Infusions,4.75
+Matcha Latte,Herbal Infusions,4.50
