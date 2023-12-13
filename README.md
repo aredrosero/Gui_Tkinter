@@ -22,11 +22,11 @@ such as guest access, login/register, food and drink selection, booking tables, 
 ## Getting Started
 
 1. Ensure you have Python installed on your system.
-2. Run the application using `python your_file_name.py` in your terminal.
+2. Run the application using `***` in your terminal.
 
 ## Application Structure
 
-- `your_file_name.py`: Main script containing the application code.
+- `gui.py`: Script contain the gui application code.
 - `abadiFamily/abadi-mt.ttf`: Custom font used in the application.
 
 ## Acknowledgments
