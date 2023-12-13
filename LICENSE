@@ -19,3 +19,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## Acknowledgments
+
+This project was inspired by the Tkinter GUI tutorial by Mariya Sha. Her tutorial provided the structure, code, and knowledge that helped me develop this application. You can find her original work here:
+
+- GitHub Repository: RandomRecipePicker: https://github.com/MariyaSha/RandomRecipePicker
+- YouTube Tutorial: Watch on YouTube: https://youtu.be/5qOnzF7RsNA
+
+I am grateful to Mariya Sha for providing such a valuable learning resource.
