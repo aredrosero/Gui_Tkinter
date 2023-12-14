@@ -5,9 +5,8 @@ Copyright (c) 2023 Dr.green606
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+to use, copy, modify, merge, publish, distribute, sublicense, and to permit
+persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
@@ -24,9 +23,17 @@ SOFTWARE.
 
 ## Acknowledgments
 
-This project was inspired by the Tkinter GUI tutorial by Mariya Sha. Her tutorial provided the structure, code, and knowledge that helped me develop this application. You can find her original work here:
+This project was inspired by the Tkinter GUI tutorial by Mariya Sha. Her tutorial provided the structure,
+code,and knowledge that helped me develop this application.
+You can find her original work here:
 
 - GitHub Repository: RandomRecipePicker: https://github.com/MariyaSha/RandomRecipePicker
 - YouTube Tutorial: Watch on YouTube: https://youtu.be/5qOnzF7RsNA
 
 I am grateful to Mariya Sha for providing such a valuable learning resource.
+
+### Font Usage Notice
+
+The font used in this project (Creidt family) is subject to the "Typodermic Desktop EULA 2023.pdf." 
+If you intend to use the same font, please be aware that it has its own End User License Agreement (EULA) that must be followed. 
+Ensure compliance with the terms outlined in "Typodermic Desktop EULA 2023.pdf."
