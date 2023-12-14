@@ -11,7 +11,7 @@ bg_color = "#3D59AB"
 fg_color = "#CAFF70"
 
 script_directory = os.path.dirname(os.path.abspath(__file__))
-font_path = os.path.join(script_directory, "abadiFamily", "abadi-mt.ttf")
+font_path = os.path.join(script_directory, "credit family", "credit river.otf")
 
 # Create a new window
 window = tk.Tk()
